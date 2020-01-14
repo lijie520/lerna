@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "cross-env": "^6.0.3",
-    "my-lerna-module": "^1.0.0"
+    "my-lerna-demo": "^0.0.1"
   }
 }

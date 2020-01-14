@@ -1,4 +1,4 @@
-import {Button} from 'antd';
+import {Button, Alert} from 'antd';
 
 export const getTime =() => {
   console.log(`北京时间${new Date()}`)
@@ -10,4 +10,6 @@ export const ShowName =() => {
 
 export const Type_Key = 'Type_key';
 
-export default Button;
+export const Button = Button;
+
+export const Alert = Alert;

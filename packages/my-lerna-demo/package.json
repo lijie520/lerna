@@ -1,0 +1,17 @@
+{
+  "name": "my-lerna-demo",
+  "version": "1.0.0",
+  "description": "测试demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "lijie",
+  "license": "ISC",
+  "dependencies": {
+    "cross-env": "^6.0.3"
+  }
+}
